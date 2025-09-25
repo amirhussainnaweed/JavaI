@@ -9,14 +9,6 @@ public class Seconds_to_minutes {
     public static void main(String[] args) {
     
         Scanner input = new Scanner(System.in);
-        
-        
-      //math.pow 
-      //math.round  according to rule
-      //math.float  not adding
-      //math.ceil   adds one 
-      //math.PI the pi value
-      //math.E the e value
       
       
       System.out.println("Enter the city where you live to check the local time: ");
@@ -226,14 +218,6 @@ public class Seconds_to_minutes {
       
       
       
-      
-      
-      
-      
-      
-      
-      
-        
     }
     
 }
