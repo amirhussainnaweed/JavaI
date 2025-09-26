@@ -1,3 +1,9 @@
+//Name: Amir Hussain Naweed 
+//Class: IS Department first semester
+//Date: September 26, 2025
+//This is a program that converts the entered amount of secnods into minutes and seconds
+
+
 package seconds_to_minutes;
 
 import java.util.Scanner;
