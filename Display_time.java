@@ -1,4 +1,5 @@
 //Name: Amir Hussain Naweed 
+//Instructor: Ahmad Roheed Khaliqyar
 //Class: IS Department first semester
 //Date: September 26, 2025
 //This is a program that converts the entered amount of secnods into minutes and seconds
