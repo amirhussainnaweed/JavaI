@@ -1,3 +1,9 @@
+//Name: Amir Hussain Naweed 
+//Instructor: Ahmad Roheed Khaliqyar
+//Class: IS Department first semester
+//Date: September 26, 2025
+//This is a program that measures the BMI index
+
 package checking_number_division_on_2_and_3;
 
 import java.util.Scanner;
