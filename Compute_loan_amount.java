@@ -1,3 +1,13 @@
+//Name: Amir Hussain Naweed 
+//Instructor: Ahmad Roheed Khaliqyar
+//Class: IS Department first semester
+//Date: September 26, 2025
+/*This is containig three programs which are:
+  1.Compute loan amount
+  2.Compute monetry units
+  3.Checking if a number is divisible on 5 and 2
+*/
+
 
 package compute_loan_amount;
 
