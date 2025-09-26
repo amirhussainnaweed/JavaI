@@ -1,3 +1,8 @@
+//Name: Amir Hussain Naweed 
+//Instructor: Ahmad Roheed Khaliqyar
+//Class: IS Department first semester
+//Date: September 26, 2025
+//This is a program that ask user to enter a city name and the program will show the local timezone
 
 package seconds_to_minutes;
 
