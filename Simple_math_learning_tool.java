@@ -1,3 +1,9 @@
+//Name: Amir Hussain Naweed 
+//Instructor: Ahmad Roheed Khaliqyar
+//Class: IS Department first semester
+//Date: September 26, 2025
+//This program is a simple math learning tool that generates randome numbers to test addition
+
 package checking_number_division_on_2_and_3;
 
 import java.util.Scanner;
