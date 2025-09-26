@@ -1,3 +1,9 @@
+//Name: Amir Hussain Naweed 
+//Instructor: Ahmad Roheed Khaliqyar
+//Class: IS Department first semester
+//Date: September 26, 2025
+//This is a program that limits the digits only two digits after the decimal point
+
 package javahomework;
 
 import java.util.Scanner;
