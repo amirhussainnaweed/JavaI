@@ -1,8 +1,14 @@
+//Name: Amir Hussain Naweed 
+//Instructor: Ahmad Roheed Khaliqyar
+//Class: IS Department first semester
+//Date: September 26, 2025
+//This is a program that randomly generates two numbers to test the subtraction skill of students
+
 package checking_number_division_on_2_and_3;
 
 import java.util.Scanner;
 
-public class Checking_number_division_on_2_and_3 {
+public class Improved_math_learning_tool_for_subtraction {
 
 
     public static void main(String[] args) {
