@@ -1,3 +1,9 @@
+//Name: Amir Hussain Naweed 
+//Instructor: Ahmad Roheed Khaliqyar
+//Class: IS Department first semester
+//Date: September 27, 2025
+//This is a program that works like lottory game to guess a number and win a prize.
+
 
 package lottory_check;
 
