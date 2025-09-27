@@ -1,4 +1,8 @@
-
+//Name: Amir Hussain Naweed 
+//Instructor: Ahmad Roheed Khaliqyar
+//Class: IS Department first semester
+//Date: September 27, 2025
+//This is a series of programs that each one is described in a comment. Their list was sent on a pdf file.
 
 package javahomework;
 
