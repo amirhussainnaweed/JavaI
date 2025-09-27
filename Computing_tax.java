@@ -1,7 +1,7 @@
 //Name: Amir Hussain Naweed 
 //Instructor: Ahmad Roheed Khaliqyar
 //Class: IS Department first semester
-//Date: September 26, 2025
+//Date: September 27, 2025
 //This program computes taxes based on American rules. These are two ways: (1) using if and else statement and (2) using swtich statement
 
 
