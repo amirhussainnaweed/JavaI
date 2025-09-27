@@ -1,3 +1,8 @@
+//Name: Amir Hussain Naweed 
+//Instructor: Ahmad Roheed Khaliqyar
+//Class: IS Department first semester
+//Date: September 27, 2025
+//This is a program that checks if a year is a leap year or not? The year input should be in AD.
 
 package leap_year_checking;
 
