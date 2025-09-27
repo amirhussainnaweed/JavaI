@@ -1,3 +1,10 @@
+//Name: Amir Hussain Naweed 
+//Instructor: Ahmad Roheed Khaliqyar
+//Class: IS Department first semester
+//Date: September 27, 2025
+//This is a program that finds the animal of a year based on chinese traditions
+
+
 package javahomework;
 
 import java.util.Scanner;
